@@ -1,6 +1,6 @@
 # -*- coding: cp1252 -*-
-#https://github.com/nerfuxion/webserver
-#RedShield - Written by Fredrik Söderlund
+#https://github.com/nerfuxion/websecurity
+#RedShield - Written by Fredrik SÃ¶derlund
 #www.redshield.co
 
 import socket
